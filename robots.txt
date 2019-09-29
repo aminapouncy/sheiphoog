@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ushoedeesu.fountain-mode.org/sitemap.xml
